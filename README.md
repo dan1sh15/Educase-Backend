@@ -4,4 +4,4 @@
 3. /listSchools lists all the data of the schools which are nearer to the user's current location.
 
 # Postman Api Doucmentation
-(Api Docs)[https://documenter.getpostman.com/view/30543263/2sAXjDebH9]
+[Api Docs](https://documenter.getpostman.com/view/30543263/2sAXjDebH9)
